@@ -1,0 +1,1 @@
+En este repositorio se cargan todos los ejercicios del capitulo 10 sobre Files, Manejo de Excepciones y Storage data in JSON files del libro llamado Python Crash Course del autor Eric Matthes

@@ -1,0 +1,6 @@
+En Python tu puedes realizar todo lo que desees
+En Python tu puedes usar estructuras de datos sin preocuparte de crearlas
+En Python tu puedes usar condicionales
+En Python tu puedes usar ciclos
+En Python tu puedes usar funciones
+En Python tu puedes usar clases
